@@ -1,0 +1,10 @@
+Code-Review+1: Ivan Kolodyazhny <e0ne@e0ne.info>
+Code-Review+1: Beth Elwell <e.r.elwell@gmail.com>
+Code-Review+2: Ying Zuo <yinzuo@cisco.com>
+Workflow+1: Ying Zuo <yinzuo@cisco.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Sun, 24 Sep 2017 00:04:27 +0000
+Reviewed-on: https://review.openstack.org/492458
+Project: openstack/xstatic-roboto-fontface
+Branch: refs/heads/master
